@@ -1,89 +1,100 @@
-# Roadmap-c-
+# 🗺️ C++ Mastery Roadmap — Table of Contents
 
-# ➡️ Untuk melihat apa saja yang harus dipelajari.
-# 📘 Master C++ Syntax & Roadmap — Daftar Isi
-# 📗 Volume 1 — Fundamental
+---
+
+📗 Volume 1 — Fundamentals
+
 ```
-Struktur Dasar
-Header File
+Basic Structure
+Header Files
 Namespace
 Input & Output
-Variabel
-Konstanta
-Tipe Data
-Operator
+Variables
+Constants
+Data Types
+Operators
 Type Casting
-Percabangan (if else)
+Conditional Statements (if else)
 Switch Case
-Perulangan
-Nested Loop
-Array 1D
-Array 2D
-String
-Function
+Loops
+Nested Loops
+1D Arrays
+2D Arrays
+Strings
+Functions
 Recursion
-Struct
-Enum
+Structs
+Enums
 Typedef
 Using
-Pointer
-Reference
-Komentar
+Pointers
+References
+Comments
 ```
-# 📘 Volume 2 — Object Oriented Programming
+
+---
+
+📘 Volume 2 — Object-Oriented Programming
+
 ```
-Class
-Object
-Access Modifier
-Constructor
-Destructor
+Classes
+Objects
+Access Modifiers
+Constructors
+Destructors
 this Pointer
 Encapsulation
 Inheritance
 Polymorphism
-Virtual Function
-Abstract Class
-Friend Function
-Friend Class
-Static Member
+Virtual Functions
+Abstract Classes
+Friend Functions
+Friend Classes
+Static Members
 Operator Overloading
 ```
 
-# 📙 Volume 3 — STL (Standard Template Library)
+---
+
+📙 Volume 3 — STL (Standard Template Library)
+
 ```
-Array STL
-Vector
-Pair
-Tuple
-Stack
-Queue
-Priority Queue
-Deque
-List
-Forward List
-Set
-Multiset
-Unordered Set
-Map
-Multimap
-Unordered Map
-Iterator
-Algorithm
+STL Arrays
+Vectors
+Pairs
+Tuples
+Stacks
+Queues
+Priority Queues
+Deques
+Lists
+Forward Lists
+Sets
+Multisets
+Unordered Sets
+Maps
+Multimaps
+Unordered Maps
+Iterators
+Algorithms
 ```
 
-# 📕 Volume 4 — Advanced C++
+---
+
+📕 Volume 4 — Advanced C++
+
 ```
 File Handling
 Dynamic Memory
-Exception
-Template
+Exceptions
+Templates
 Auto
 Decltype
 Constexpr
-Lambda
-Smart Pointer
+Lambdas
+Smart Pointers
 Move Semantics
-Thread
+Threads
 Mutex
 Atomic
 Future
@@ -94,25 +105,51 @@ Regex
 Filesystem
 Modern C++ Features
 ```
-# 📓 Volume 5 — Project
+
+---
+
+📓 Volume 5 — Projects
+
 ```
 Calculator
-CRUD
+CRUD Application
 Login System
 File Database
-Tic Tac Toe
+Tic Tac Toe Game
 Snake Game
 RPG Text Game
 Mini Game Engine
 ```
 
-# 🎯 Target Belajar
-☑ Kuasai Volume 1 → Fondasi C++ yang kuat.
-☑ Lanjut Volume 2 → Kuasai konsep OOP.
-☑ Lanjut Volume 3 → Kuasai STL untuk menulis kode yang efisien.
-☑ Lanjut Volume 4 → Pelajari fitur-fitur Modern C++.
-☑ Akhiri dengan Volume 5 → Bangun proyek nyata sebagai portofolio.
+---
 
-# 🏆 Target Akhir
-Setelah menyelesaikan kelima volume ini, kamu akan memiliki fondasi C++ yang sangat kuat untuk pengembangan aplikasi, game, maupun sebagai bekal mempelajari bahasa pemrograman lain seperti Java, Kotlin, atau bahasa modern lainnya.
+🎯 Learning Targets
 
+Target Description
+☑ Volume 1 Master strong C++ fundamentals
+☑ Volume 2 Master OOP concepts
+☑ Volume 3 Master STL for efficient code writing
+☑ Volume 4 Learn Modern C++ features
+☑ Volume 5 Build real-world projects for portfolio
+
+---
+
+🏆 Final Goal
+
+After completing all five volumes, you will have:
+
+· ✅ A very strong C++ foundation
+· ✅ Ready for application development
+· ✅ Ready for game development
+· ✅ Ready to learn other languages like Java, Kotlin, or other modern languages
+
+---
+
+📊 Progress Tracker
+
+Volume Status Notes
+Volume 1 — Fundamentals 🚀 In Progress Building foundation
+Volume 2 — OOP ⏳ Pending 
+Volume 3 — STL ⏳ Pending 
+Volume 4 — Advanced ⏳ Pending 
+Volume 5 — Projects ⏳ Pending 
